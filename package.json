@@ -5,9 +5,9 @@
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "main": "dist/index.js",
-  "homepageUrl": "https://github.com/",
+  "homepageUrl": "https://github.com/Raulcmm/rc-elements-demo",
   "repository": {
-    "url": "",
+    "url": "https://github.com/Raulcmm/rc-elements-demo",
     "type": "git"
   },
   "peerDependencies": {

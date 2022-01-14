@@ -1,3 +1,10 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap);
+*{
+    font-family: 'Roboto', sans-serif;
+}
+*,*::before, *::after{
+    box-sizing: border-box;
+}
     /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
     /* Document
@@ -85,7 +92,8 @@
     abbr[title] {
     border-bottom: none; /* 1 */
     text-decoration: underline; /* 2 */
-    text-decoration: underline dotted; /* 2 */
+    -webkit-text-decoration: underline dotted;
+            text-decoration: underline dotted; /* 2 */
     }
 
     /**
@@ -354,3 +362,6 @@
         padding:0;
         margin: 0;
     }
+
+
+/*# sourceMappingURL=main.92e85bc9.css.map*/
